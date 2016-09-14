@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 lockdir="/run/lock/btrfs-scrub"
 
